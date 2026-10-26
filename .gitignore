@@ -1,0 +1,5 @@
+totally_not_my_privateKeys.db
+*.db
+gradebot.exe
+coverage
+coverage.out
